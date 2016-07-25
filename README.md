@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Developing museum websites, being mobile, haning by the beach.
